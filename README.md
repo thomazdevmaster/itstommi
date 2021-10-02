@@ -13,7 +13,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-PHP-yellow?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
@@ -35,7 +35,7 @@ class Thomas {
     this.skills.push(currentlyLearning);
   }
   get education() {
-    return "Pursuing an Associates's in computer science.";
+    return "Pursuing an Associate of Computer Science";
   }
 }
 let me = new Thomas("AWS");
@@ -53,9 +53,9 @@ let me = new Thomas("AWS");
 ```
 > fetch
 
-💾 OS     ~  Arch Linux
-💻 Host   ~  MacBookPro
-💽 Shell  ~  zsh 5.7.12
+💾 OS     ~  macOS
+💻 Host   ~  MacBook
+💽 Shell  ~  zsh 5.8
 ```
 
 <h3>🎶 Vibing to</h3>
